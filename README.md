@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Akrati Mishra
 
-### 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast
+### 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast | Open Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/Akrati36?label=Follow&style=social)](https://github.com/Akrati36)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrati-mishra)
@@ -28,6 +28,7 @@ class AkratiMishra:
             "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
             "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
             "nlp": ["NLTK", "spaCy", "Transformers", "TF-IDF"],
+            "bi_tools": ["Power BI", "Excel", "DAX"],
             "cloud": ["AWS", "Google Cloud", "Azure"],
             "tools": ["Git", "Docker", "Streamlit", "Jupyter"],
             "databases": ["PostgreSQL", "MongoDB", "MySQL"]
@@ -37,6 +38,7 @@ class AkratiMishra:
         return [
             "Building AI-powered applications",
             "Deep Learning & NLP",
+            "Business Intelligence & Analytics",
             "MLOps & Model Deployment",
             "Open Source Contribution"
         ]
@@ -50,38 +52,68 @@ me = AkratiMishra()
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎯 [Customer Churn Prediction](https://github.com/Akrati36/customer-churn-prediction)
 
-Predictive ML system using **Random Forest**, **XGBoost**, and **SMOTE** for class imbalance.
+ML system with **Random Forest**, **XGBoost**, and **SMOTE**.
 
-**Tech Stack:**
-- Python, Scikit-learn
-- SMOTE, Feature Engineering
-- ROC-AUC, Confusion Matrix
-- Streamlit Web App
+**Tech:** Python, Scikit-learn, Streamlit
 
 ⭐ **90%+ Accuracy**
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 📄 [Resume Screening System](https://github.com/Akrati36/resume-screening-system)
 
-AI-powered resume matcher using **NLP**, **TF-IDF**, and **Cosine Similarity**.
+AI-powered matcher using **NLP**, **TF-IDF**, **Cosine Similarity**.
 
-**Tech Stack:**
-- NLTK, NLP Preprocessing
-- TF-IDF Vectorization
-- Logistic Regression, Naive Bayes
-- PDF/DOCX Parsing
+**Tech:** NLTK, Logistic Regression, Naive Bayes
 
 ⭐ **85%+ Match Accuracy**
 
 </td>
+<td width="33%">
+
+### 📊 [Blinkit Analysis Dashboard](https://github.com/Akrati36/blinkit-analysis-dashboard)
+
+Interactive **Power BI** dashboard for business intelligence.
+
+**Tech:** Power BI, DAX, Python
+
+⭐ **End-to-End Analytics**
+
+</td>
 </tr>
 </table>
+
+---
+
+## 🌟 Open Source Contributions
+
+I'm actively contributing to open source projects! Check out my [Open Source Guide](OPEN_SOURCE_GUIDE.md) for tips on getting started.
+
+### 🎯 Contribution Focus Areas
+- 🐍 **Python Projects** - ML/Data Science libraries
+- 📚 **Documentation** - Improving project docs
+- 🐛 **Bug Fixes** - Resolving issues
+- ✨ **Features** - Adding new functionality
+
+### 📈 Contribution Stats
+- 🔧 **Pull Requests:** Growing
+- 📚 **Projects:** Scikit-learn, Pandas, Streamlit
+- 🐛 **Issues Resolved:** Contributing regularly
+- ⭐ **Focus:** ML & Data Science ecosystem
+
+### 🚀 How I Contribute
+1. **Find Issues** - `good-first-issue` labels
+2. **Understand Context** - Read docs & code
+3. **Propose Solution** - Discuss with maintainers
+4. **Submit PR** - Clean code with tests
+5. **Iterate** - Address feedback
+
+**Want to contribute too?** Read my [Complete Open Source Guide](OPEN_SOURCE_GUIDE.md)!
 
 ---
 
@@ -100,6 +132,10 @@ AI-powered resume matcher using **NLP**, **TF-IDF**, and **Cosine Similarity**.
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -162,22 +198,29 @@ AI-powered resume matcher using **NLP**, **TF-IDF**, and **Cosine Similarity**.
 - ☁️ **MLOps** - Model deployment and monitoring at scale
 - 📊 **Advanced NLP** - Transformers, BERT, GPT applications
 - 🔧 **System Design** - Building scalable ML systems
+- 🌟 **Open Source** - Contributing to major projects
 
 ---
 
 ## 💼 Experience Highlights
 
 ```yaml
-Machine Learning Projects:
+Projects:
   - Customer Churn Prediction: 90%+ accuracy with ensemble models
   - Resume Screening System: NLP-based matching with 85%+ precision
-  - Feature Engineering: SMOTE, TF-IDF, advanced preprocessing
+  - Blinkit Analysis Dashboard: End-to-end BI solution with Power BI
   
 Technical Skills:
   - Model Development: Supervised & Unsupervised Learning
   - Data Processing: ETL pipelines, data cleaning, feature engineering
+  - Business Intelligence: Power BI dashboards, DAX, data visualization
   - Deployment: Streamlit apps, REST APIs, cloud deployment
   - Evaluation: ROC-AUC, Confusion Matrix, Cross-validation
+  
+Open Source:
+  - Active contributor to Python ML/Data Science ecosystem
+  - Focus on documentation, bug fixes, and feature additions
+  - Collaborative development with global teams
 ```
 
 ---
@@ -186,12 +229,12 @@ Technical Skills:
 
 <div align="center">
 
-| 🎯 Machine Learning | 📊 Data Science | 🔧 Engineering |
-|:---:|:---:|:---:|
-| Model Development | Data Analysis | Clean Code |
-| Feature Engineering | Visualization | Git Workflow |
-| Model Evaluation | Statistical Analysis | Documentation |
-| Hyperparameter Tuning | EDA | Testing |
+| 🎯 Machine Learning | 📊 Data Science | 💼 Business Intelligence | 🌟 Open Source |
+|:---:|:---:|:---:|:---:|
+| Model Development | Data Analysis | Power BI Dashboards | Contributing |
+| Feature Engineering | Visualization | DAX Measures | Collaboration |
+| Model Evaluation | Statistical Analysis | KPI Tracking | Code Review |
+| Hyperparameter Tuning | EDA | Business Insights | Documentation |
 
 </div>
 
@@ -201,7 +244,7 @@ Technical Skills:
 
 <div align="center">
 
-I'm always interested in collaborating on ML/AI projects and discussing new ideas!
+I'm always interested in collaborating on ML/AI projects, contributing to open source, and discussing new ideas!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrati-mishra)
 [![Email](https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akratimishra366@gmail.com)
@@ -213,11 +256,11 @@ I'm always interested in collaborating on ML/AI projects and discussing new idea
 
 ## 💡 Fun Facts
 
-- 🔭 Currently working on **AI-powered applications**
-- 🌱 Learning **Deep Learning & MLOps**
+- 🔭 Currently working on **AI-powered applications** and **contributing to open source**
+- 🌱 Learning **Deep Learning, MLOps, and Advanced NLP**
 - 👯 Looking to collaborate on **Open Source ML projects**
-- 💬 Ask me about **Python, Machine Learning, NLP**
-- ⚡ Fun fact: **I love turning data into insights!**
+- 💬 Ask me about **Python, Machine Learning, NLP, Power BI**
+- ⚡ Fun fact: **I love turning data into insights and code into impact!**
 
 ---
 
