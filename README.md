@@ -5,7 +5,7 @@
 ### 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast | Open Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/Akrati36?label=Follow&style=social)](https://github.com/Akrati36)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrati-mishra)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrati-mishra-98a61b264/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akratimishra366@gmail.com)
 
 </div>
